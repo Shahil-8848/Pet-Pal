@@ -2,7 +2,7 @@
 export default {
   primary: "#4A90E2", // Pastel blue
   secondary: "#F5A9B8", // Pastel pink
-  background: "black",
+  background: "white",
   card: "#F8F8F8",
   text: "white",
   textLight: "#8E8E93",
